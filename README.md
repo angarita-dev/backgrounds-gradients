@@ -6,6 +6,8 @@ This is the third project of the Main HTML/CSS curriculum at [Microverse](https:
 
 #### [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
+#### Live ScreenShot of the page
+![ScreenShot 1](./resources/project-capture.png)
 
 #### Author
 
