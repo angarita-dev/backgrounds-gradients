@@ -2,4 +2,4 @@ linters:
   stylelint:
     fixer: 'true'
   csslint:
-    ignore: 'order-alphabetical,box-model,background-position-y,background-position-y'
+    ignore: 'order-alphabetical,box-model'
