@@ -156,6 +156,7 @@ body {
 }
 
 .title-img{
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/your_verse_title_small.png);
     width: 980px;
     height: 104px;
     margin-bottom: -50px;
@@ -175,6 +176,7 @@ body {
 }
 
 .subtitle-img{
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/your_verse_subhead_small.png);
     width: 980px;
     height: 82px;
 }
@@ -202,7 +204,8 @@ body {
     text-decoration: underline;
 }
 
-.promos {
+.top-footer {
+    height: 200px;
     margin-top: 3px; 
     width: 100%;
     display: flex;
@@ -221,15 +224,15 @@ body {
     width: 100%;
 }
 
-.promos > .promo-link {
+.top-footer > .promo-link {
     margin-left: 0;
 }
 
-.promos > .promo-link ~ .promo-link {
+.top-footer > .promo-link ~ .promo-link {
     margin-left: 3px; 
 }
 
-.main-footer {
+.bottom-footer {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -284,4 +287,20 @@ body {
 
 .footer-a-border{
     border-left: 1px solid #ccc;
+}
+
+.iphone5s {
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg);
+}
+
+.iphone5c {
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg);
+}
+
+.years-30 {
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg);
+}
+
+.supplier {
+    background-image: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg);
 }
